@@ -11,7 +11,7 @@ url = "https://api.steampowered.com/IStoreService/GetAppList/v1/"
 
 params = {
     "key": API_KEY,
-    "max_results": 1000,
+    "max_results": 10000,
     "last_appid": 0
 }
 
